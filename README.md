@@ -70,12 +70,6 @@ Landing page without login
 User Dashboard
 ![capture](https://user-images.githubusercontent.com/1465967/38768216-913d7944-400d-11e8-9a3e-12807b8ef86e.PNG)
 
- ## Credits
-
-Created by [@anuraggautam77](https://www.linkedin.com/in/anuraggautam77/)
-
- ## Cheer me
-Cheer me up with a coffee! [![React Router](https://www.buymeacoffee.com/assets/img/bmc-f-logo.svg)](https://www.buymeacoffee.com/fL0O9wW)
 
  
 
